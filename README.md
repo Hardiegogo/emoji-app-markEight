@@ -1,2 +1,3 @@
 # emoji-app-markEight
-Created with CodeSandbox
+Want to know the meaning of an emoji?
+Type in and check it out.
