@@ -12,11 +12,6 @@ export default function App() {
     "🍌": "Banana",
     "🏳️": "white-flag",
     "🏴": "black-flag",
-    "😢": "crying face",
-    "😐": "Neutral face",
-    "😴": "Sleeping face",
-    "😊": "smiling",
-    "😂": "laughing"
   };
 
   const emojiList = Object.keys(emojiDictionary);
